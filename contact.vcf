@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-N:박;세현;;;
-FN:박세현 (Park Saehyun)
+FN:카반프로젝트 박세현
+N:박세현;;;;
 ORG:Cavane Project
-TITLE:R&D Director
-TEL;TYPE=CELL:+82-10-2264-9901
+TITLE:Menu R&D Director
+TEL;TYPE=CELL:01022649901
 EMAIL;TYPE=INTERNET:martinmind@naver.com
 END:VCARD
